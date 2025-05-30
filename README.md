@@ -1,8 +1,9 @@
-** UserDemo Project **
-This is a Spring Boot application for managing user data.
+** UserDemo Project **<br>
+This is a Spring Boot application for managing user data.<br><br>
 
-** Technologies **
-Java 21
-Spring Boot 
-Maven 
+** Technologies ** <br>
+Java 21 <br>
+Spring Boot <br>
+Hibernate <br>
+Maven <br>
 MySQL
